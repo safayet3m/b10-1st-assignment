@@ -136,3 +136,23 @@
     font-weight: 400;
     line-height: 26px;/
 }
+
+/* video section */
+.video-section-headding {
+    text-align: center;
+}
+
+.video-section-headding>h3 {
+    color: #0D1321;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.video-section-headding>p {
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
