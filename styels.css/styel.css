@@ -218,3 +218,54 @@
     font-weight: 400;
     line-height: 26px;
 }
+
+.react-contiar {
+    display: flex;
+    gap: 20px;
+    margin: 50px 150px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    padding: 40px;
+}
+
+.react-text>h4 {
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+}
+
+.NodeJs-contiar {
+    display: flex;
+    gap: 20px;
+    margin: 50px 150px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    padding: 40px;
+}
+
+.NodeJs-text>h4 {
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+}
+
+.MongoDB-text>h4 {
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+}
+
+.MongoDB-contanir {
+    display: flex;
+    gap: 20px;
+    margin: 50px 150px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    padding: 40px;
+}
