@@ -46,9 +46,8 @@
 .hero-headding {
     margin-bottom: 18px;
     color: #0D1321;
-    font-size: 38px;
+    font-size: 30px;
     font-weight: 800;
-    line-height: 68px;
 }
 
 .hero-perogurp {
@@ -268,4 +267,73 @@
     border: 1px solid rgba(13, 19, 33, 0.15);
     background: #FFF;
     padding: 40px;
+}
+
+/* I need Support section */
+.I-need-Support-continar {
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 48px;
+    border-radius: 16px;
+    opacity: 0.8;
+    margin: 60px 150px;
+}
+
+.I-need-Support-continar>h3 {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+
+}
+
+.I-need-Support-continar>p {
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+}
+
+#input-text {
+    width: 548px;
+    padding: 19px 20px;
+    /* align-items: center; */
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    border: 0px;
+}
+
+#input-submit {
+    width: 120px;
+    padding: 17px 20px;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #FFF;
+    color: #0D1321;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0px;
+}
+/* footer section */
+#btn-link{
+    scroll-behavior: smooth;
+}
+.footer-continar{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    margin: 60px 150px;
+}
+.footer-icon>a{
+    gap: 15px;
 }
